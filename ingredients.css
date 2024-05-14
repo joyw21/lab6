@@ -1,0 +1,64 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.bun-top {
+  height: 70px;
+  width: 60%;
+  background: #DEB887;
+  border-radius: 100px 100px 20px 20px;
+  border-bottom: solid 10px rgba(0,0,0,.1);
+}
+
+.lettuce {
+    height: 20px;
+    width: 65%;
+    background-color: #00c300;
+    border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.cheese {
+  height: 16px;
+  width: 65%;
+  background: #F9812A;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.tomato {
+    height: 30px;
+    width: 65%;
+    background-color: #FF0000;
+    border-radius: 15px;
+    border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.patty {
+  height: 40px;
+  width: 60%;
+  background: #6a4a3a;
+  border-radius: 15px;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.chicken {
+  height: 40px;
+  width: 60%;
+  background: #FFE4C4;
+  border-radius: 15px;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.bun-bottom {
+  height: 35px;
+  width: 60%;
+  background: #DEB887;
+  border-radius: 20px 20px 40px 40px;
+  border-top: solid 8px rgba(0,0,0,.1)
+}
+
+.plate {
+  height: 65px;
+  width: 95%;
+  background: #FFC6EC;
+  border-radius: 20px 20px 200px 200px;
+}
+
